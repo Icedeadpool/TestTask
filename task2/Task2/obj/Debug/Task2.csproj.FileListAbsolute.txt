@@ -1,7 +1,0 @@
-C:\Users\Пользователь01\source\repos\Task2\Task2\bin\Debug\Task2.exe.config
-C:\Users\Пользователь01\source\repos\Task2\Task2\bin\Debug\Task2.exe
-C:\Users\Пользователь01\source\repos\Task2\Task2\bin\Debug\Task2.pdb
-C:\Users\Пользователь01\source\repos\Task2\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
-C:\Users\Пользователь01\source\repos\Task2\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
-C:\Users\Пользователь01\source\repos\Task2\Task2\obj\Debug\Task2.exe
-C:\Users\Пользователь01\source\repos\Task2\Task2\obj\Debug\Task2.pdb
